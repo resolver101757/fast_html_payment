@@ -1,0 +1,9 @@
+.env*
+git config --global user.email "kelster101757@hotmail.com"
+git config --global user.name "alex kelly"
+gens*
+*.pyc
+.sesskey
+# Start of Selection
+prompts/
+# End of Selection
